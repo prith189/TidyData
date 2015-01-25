@@ -10,6 +10,7 @@ This document is a codebook detailing the variables in the TidyData Dataset
 "Subject"      - The index of the Subject performing the experiment                           
 "Activity performed"   - The activity being performed                   
 "tBody Acc  Mean n X axis "     - Time Domain Mean of Accelerometer data due to body in X axis
+
 "tBody Acc  Mean  in Y axis "   - Time Domain Mean of Accelerometer data due to body in Y axis           
 "tBody Acc  Mean Z axis "       - Time Domain Mean of Accelerometer data due to body in Z axis           
 "Gravity  Acc  Mean n X axis " - Time Domain Mean of Accelerometer data due to gravity in X axis           
